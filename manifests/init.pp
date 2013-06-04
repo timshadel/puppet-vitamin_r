@@ -7,7 +7,7 @@ class vitamin_r {
 
   package { 'Vitamin-R':
     provider => 'appdmg',
-    source   => 'http://www.publicspace.net/download/Vitamin.dmg'
+    source   => 'http://www.publicspace.net/download/Vitamin_1_98.dmg'
   }
 
 }
